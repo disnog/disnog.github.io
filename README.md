@@ -1,6 +1,9 @@
-Welcome to the Networking Discord server!
+[![Networking Discord](https://img.shields.io/discord/245189311681527808.svg?label=Networking&logo=discord)](https://discord.me/networking)  
 
-While you're here, we ask that you stick to the guidelines below for the comfort of all our users.
+Welcome to the Networking Discord server! If you haven't made it in yet, you can join [here](https://discord.me/networking).
+
+While you're here, we ask that you stick to the guidelines below for the comfort of all our users. You'll need to accept
+these rules and pass a simple general intent quiz to be fully admitted.
 
 # Guidelines
 
