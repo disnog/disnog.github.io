@@ -1,4 +1,4 @@
-# Other resources
+# Other Resources
 
 Perhaps you've reached this page because this server isn't quite right for what you're seeking, especially if it's something like:
 - server administration
