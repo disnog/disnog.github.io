@@ -18,6 +18,7 @@ these rules and pass a simple general intent quiz to be fully admitted.
 - home networking
 - [non-network] programming
 - non-networking IT disciplines
+
 If you're looking for any of these things, check out some [suggestions for other resources](other-resources.md).
 
 ## General rules
