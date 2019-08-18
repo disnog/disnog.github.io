@@ -27,3 +27,6 @@ If you're looking for any of these things, check out some [suggestions for other
 - Please attempt to use the appropriate channel for your discussion.  Some people may mute channels that are not relevant to them; please respect this.
 - Treat everyone with respect.
 - Please do not initiate random/unprompted DMs. (DMs to mods/admins regarding Discord server moderation needs or questions are always permissible!)
+
+# Suggestions
+Have a suggestion for how to make the server even better? [Submit it here!](https://github.com/networking-discord/networking-discord.github.io/issues/new?assignees=&labels=enhancement&template=suggestion.md)
