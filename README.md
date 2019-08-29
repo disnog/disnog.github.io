@@ -30,3 +30,6 @@ If you're looking for any of these things, check out some [suggestions for other
 
 # Suggestions
 Have a suggestion for how to make the server even better? [Submit it here!](https://github.com/networking-discord/networking-discord.github.io/issues/new?assignees=&labels=enhancement&template=suggestion.md)
+
+# Current Trials
+- Discord Nitro Boosters are currently permitted into the Education category channels. General rules still apply. Opinions on this program are encouraged on the [Issue Page](https://github.com/networking-discord/networking-discord.github.io/issues/3).
