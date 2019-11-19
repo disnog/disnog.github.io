@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: networking-discord.github.io
-Token: b82dfa947294090b5d0f884aa4af09b4c86d1486a26ef3cdafb93fe09b62fd03
