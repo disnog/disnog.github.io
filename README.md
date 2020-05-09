@@ -28,5 +28,10 @@ If you're looking for any of these things, check out some [suggestions for other
 - Treat everyone with respect.
 - Please do not initiate random/unprompted DMs. (DMs to mods/admins regarding Discord server moderation needs or questions are always permissible!)
 
+# [Bot commands](https://discord.neteng.xyz/botcommands)
+A custom bot has been created for the Networking Discord server.
+Command information is available [here](https://discord.neteng.xyz/botcommands).
+
 # Suggestions
-Have a suggestion for how to make the server even better? [Submit it here!](https://github.com/networking-discord/networking-discord.github.io/issues/new?assignees=&labels=enhancement&template=suggestion.md)
+Have a suggestion for how to make the server even better?
+[Submit it here!](https://github.com/networking-discord/networking-discord.github.io/issues/new?assignees=&labels=enhancement&template=suggestion.md)
