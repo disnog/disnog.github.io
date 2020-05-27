@@ -36,10 +36,10 @@ Example:
 -ipcalc collision 192.16.1.2/24 192.16.0.0/23
 ```
 
-## `-profile`
-Modify your profile information.
+## `-role`
+Modify your roles.
 
-### `-profile org`
+### `-role org`
 Used to control your organization role. Organization roles are
 email-validated roles on the Discord server in the format `org:<domain>`
 to demonstrate affiliation with your employer or school.
@@ -47,29 +47,23 @@ For example, a user with an email domain of neteng.xyz may have the role
 `org:neteng.xyz`. Currently, only one organization role is permitted per
 user at a time.
 
-#### `-profile org clear`
+#### `-role org clear`
 Remove any organization roles currently set.
 
-#### `-profile org confirm <email> <key>`
+#### `-role org set <key>`
 Confirm an organization role using the key from your email. The key, as
 well as the exact command to use, will be emailed to you when you use
-the `-profile org set` command.
-
-#### `-profile org set <email>`
-Used to set your organization based on your email. Your org role will
-be determined based on the domain name in your email address. _Do not use
-free email addresses for this; "gmail.com" is probably not your
-employer or school, but "google.com" might be. Use your employer or
-school email address here.
+the `-sendkey <email>` command.
 
 Once you submit this command, you will be emailed a verification code and
 command to confirm your affiliation.
 
-_Note that your email address will be briefly publicly exposed when you
-answer this, but it will be deleted immediately by the bot and is not
-stored by the bot. The source code to achieve this is publicly viewable._
-
 Example use:
 ```
--profile org set user@myemployer.com
+-role org set verylongwalloftextthatyou'vebeenemailed=
 ```
+
+## `-sendkey <email>`
+Obtain an email verification key for use with other commands such as
+`-role org set`. Use this for each email address that will need
+verification. This command may be issued in DM for privacy.
