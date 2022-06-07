@@ -1,6 +1,6 @@
-[![Networking Discord](https://img.shields.io/discord/245189311681527808.svg?label=Networking&logo=discord)](https://discord.me/networking)  
+[![Networking Discord](https://img.shields.io/discord/245189311681527808.svg?label=Networking&logo=discord)](https://disnog.org)  
 
-Welcome to the Networking Discord server! If you haven't made it in yet, you can join [here](https://discord.me/networking).
+Welcome to the Networking Discord server! If you haven't made it in yet, you can join [here](https://disnog.org/join).
 
 While you're here, we ask that you stick to the guidelines below for the comfort of all our users. You'll need to accept
 these rules and pass a simple general intent quiz to be fully admitted.
@@ -28,9 +28,9 @@ If you're looking for any of these things, check out some [suggestions for other
 - Treat everyone with respect.
 - Please do not initiate random/unprompted DMs. (DMs to mods/admins regarding Discord server moderation needs or questions are always permissible!)
 
-# [Bot commands](https://discord.neteng.xyz/botcommands)
+# [Bot commands](https://disnog.github.io/botcommands)
 A custom bot has been created for the Networking Discord server.
-Command information is available [here](https://discord.neteng.xyz/botcommands).
+Command information is available [here](https://disnog.github.io/botcommands).
 
 # Suggestions
 Have a suggestion for how to make the server even better?
